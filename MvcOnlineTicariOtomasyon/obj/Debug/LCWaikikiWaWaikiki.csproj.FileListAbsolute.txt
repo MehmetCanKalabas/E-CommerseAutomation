@@ -1,0 +1,4 @@
+C:\Users\ibrah\Source\Repos\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\obj\Debug\LCWaikikiWaWaikiki.csprojAssemblyReference.cache
+C:\Users\ibrah\Source\Repos\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\obj\Debug\LCWaikikiWaWaikiki.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\Source\Repos\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\obj\Debug\MvcOnlineTicariOtomasyon.dll
+C:\Users\ibrah\Source\Repos\MvcOnlineTicariOtomasyon\MvcOnlineTicariOtomasyon\obj\Debug\MvcOnlineTicariOtomasyon.pdb
